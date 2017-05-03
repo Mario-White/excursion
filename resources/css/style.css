@@ -1,0 +1,22 @@
+  body {
+            font-family: Verdana, sans-serif;
+            text-align: center;
+            background-color: black;}
+  .title1 {
+            color: white;
+            font-size: 50px;}
+  .title2 {
+            color: aquamarine;
+            font-size: 16px;
+            text-decoration: underline;}
+  .title3 {
+            color: white;
+            font-size: 42px;
+            font-weight: 300;}
+  .title4 {
+            color: gray;
+            font-size: 21px;}
+  .title5 {
+            color: gray;
+            font-size: 21px;
+            text-align: right;}
